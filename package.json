@@ -9,7 +9,7 @@
     "discord.js": "^11.5.1",
     "goodreads-api-node": "0.0.10",
     "jimp": "^0.6.8",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "log-timestamp": "^0.3.0",
     "npm": "^6.11.3",
     "winston": "^3.2.1",

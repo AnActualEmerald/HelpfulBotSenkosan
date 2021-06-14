@@ -13,7 +13,7 @@
     "log-timestamp": "^0.3.0",
     "npm": "^6.11.3",
     "winston": "^3.2.1",
-    "ws": "^7.1.2",
+    "ws": "^7.4.6",
     "xml2js": "^0.4.22"
   },
   "devDependencies": {},
